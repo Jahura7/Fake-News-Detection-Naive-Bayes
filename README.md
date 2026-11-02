@@ -153,7 +153,7 @@ These findings highlight the importance of evaluating individual classification 
 Fake-News-Detection-Naive-Bayes/
 │
 ├── Fake-News-Detection-Naive-Bayes.ipynb
-├── fake_or_real_news_dataset.csv
+├── fake_or_real_news_dataset.zip
 └── README.md
 ```
 
